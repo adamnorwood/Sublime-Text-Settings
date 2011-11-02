@@ -1,0 +1,6 @@
+// Place user-specific overrides in this file, to ensure they're preserved
+// when upgrading
+{
+    "highlight_modified_tabs": true,
+    "overlay_scroll_bars": "enabled"
+}

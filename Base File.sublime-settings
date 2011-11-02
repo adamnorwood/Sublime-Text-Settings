@@ -1,0 +1,14 @@
+{
+	"font_face": "Consolas",
+	"font_size": 10.0,
+	"word_wrap": false,
+    "font_options": ["subpixel_antialias"],
+
+	// Set to false to prevent line numbers being drawn in the gutter
+	"line_numbers": false,
+	"rulers": [120],
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false,
+	"fallback_encoding": "UTF-8",
+    "draw_indent_guides": false
+}
