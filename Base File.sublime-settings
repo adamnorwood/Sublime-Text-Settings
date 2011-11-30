@@ -1,17 +1,18 @@
 {
 	"draw_indent_guides": false,
 	"fallback_encoding": "UTF-8",
-	"font_face": "Consolas",
-	"font_options":
+	"font_face": "Consolas",	
+	"font_size": 10.0,
+	"font_options": 
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 14.0,
 	"line_numbers": false,
 	"rulers":
 	[
 		120
 	],
 	"translate_tabs_to_spaces": true,
+	"detect_indentation": false,
 	"word_wrap": false
 }
