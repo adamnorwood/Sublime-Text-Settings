@@ -1,3 +1,17 @@
 {
-	"auto_upgrade_last_run": 1323895485
+	"auto_upgrade_last_run": 1323968772,
+	"installed_packages":
+	[
+		"Alignment",
+		"EncodingHelper",
+		"GitHubinator",
+		"HTML5",
+		"LiveReload",
+		"Open Recent Files",
+		"Package Control",
+		"Placeholders",
+		"SideBarEnhancements",
+		"sublime-text-2-goto-documentation",
+		"SublimeCodeIntel"
+	]
 }
