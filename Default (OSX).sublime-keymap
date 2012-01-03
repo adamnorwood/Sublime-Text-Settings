@@ -1,2 +1,4 @@
 [
+  { "keys": ["command+f1"], "command": "goto_documentation" },
+  { "keys": ["command+shift+t"], "command": "delete_trailing_spaces" }
 ]
