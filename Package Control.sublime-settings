@@ -3,16 +3,21 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"ColdFusion",
 		"EncodingHelper",
-		"GitHubinator",
 		"Goto Documentation",
+		"HexViewer",
 		"HTML5",
+		"jQuery Snippets pack",
 		"LiveReload",
-		"Open Recent Files",
 		"Package Control",
+		"PhpDoc",
 		"Placeholders",
 		"SideBarEnhancements",
+		"sublime-jslint",
+		"sublime-text-2-goto-documentation",
 		"SublimeCodeIntel",
+		"TrailingSpaces",
 		"Wordpress"
 	]
 }

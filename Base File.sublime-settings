@@ -1,16 +1,19 @@
 {
 	"detect_indentation": false,
 	"draw_indent_guides": true,
-  "indent_guide_options": ["draw_active"],
 	"draw_white_space": "selection",
 	"fallback_encoding": "UTF-8",
 	"find_selected_text": true,
-  "font_face": "Consolas",
+	"font_face": "Consolas",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 14.0,
+	"font_size": 10.0,
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
 	"line_numbers": false,
 	"line_padding_bottom": 1,
 	"rulers":

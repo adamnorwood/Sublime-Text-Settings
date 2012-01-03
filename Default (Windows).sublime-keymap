@@ -1,5 +1,6 @@
 [
     { "keys": ["ctrl+tab"], "command": "next_view" },
     { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
-    { "keys": ["ctrl+f1"], "command": "goto_documentation" }
+    { "keys": ["ctrl+f1"], "command": "goto_documentation" },
+    { "keys": ["ctrl+shift+t"], "command": "delete_trailing_spaces" }
 ]
