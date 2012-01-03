@@ -1,20 +1,23 @@
 {
-    "detect_indentation": false,
-    "draw_indent_guides": false,
-    "fallback_encoding": "UTF-8",
-    "font_face": "Consolas",
-    "font_options":
-    [
-        "subpixel_antialias"
-    ],
-    "font_size": 10.0,
-    "line_numbers": false,
-    "rulers":
-    [
-        120
-    ],
-    "translate_tabs_to_spaces": true,
-    "word_wrap": false,
-    "line_padding_bottom": 1,
-    "draw_white_space": "selection"
+	"detect_indentation": false,
+	"draw_indent_guides": true,
+  "indent_guide_options": ["draw_active"],
+	"draw_white_space": "selection",
+	"fallback_encoding": "UTF-8",
+	"find_selected_text": true,
+  "font_face": "Consolas",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 14.0,
+	"line_numbers": false,
+	"line_padding_bottom": 1,
+	"rulers":
+	[
+		120
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
 }

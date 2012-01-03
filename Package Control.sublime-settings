@@ -1,17 +1,18 @@
 {
-	"auto_upgrade_last_run": 1323968772,
+	"auto_upgrade_last_run": 1325610682,
 	"installed_packages":
 	[
 		"Alignment",
 		"EncodingHelper",
 		"GitHubinator",
+		"Goto Documentation",
 		"HTML5",
 		"LiveReload",
 		"Open Recent Files",
 		"Package Control",
 		"Placeholders",
 		"SideBarEnhancements",
-		"sublime-text-2-goto-documentation",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"Wordpress"
 	]
 }

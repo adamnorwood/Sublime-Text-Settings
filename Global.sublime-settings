@@ -2,8 +2,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SublimeCodeIntel"
+		"Vintage"
 	],
-	"overlay_scroll_bars": "enabled"
+	"overlay_scroll_bars": "normal",
+  "use_simple_full_screen": true
 }
