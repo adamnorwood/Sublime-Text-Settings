@@ -1,0 +1,11 @@
+{
+  //underline? (underline/underline/underline/none) ->
+  "quote_style" : "underline",
+  "curly_style" : "underline",
+  "round_style" : "underline",
+  "square_style": "underline",
+  "angle_style" : "underline",
+  "tag_style"   : "underline",
+
+  "debounce_delay" : 0
+}

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+echo '<!-- '; print_r(${1}); echo ' -->';
+]]></content>
+    <description>PHP: Pretty print_r (silent)</description>
+    <scope>source.php</scope>
+    <tabTrigger>dumps</tabTrigger>
+</snippet>
